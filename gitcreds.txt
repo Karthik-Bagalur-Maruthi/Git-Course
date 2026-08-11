@@ -1,0 +1,2 @@
+user = ram
+password = 123456
