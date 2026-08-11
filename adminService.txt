@@ -7,9 +7,6 @@ Controls..
 
 
 Change 1
-<<<<<<< HEAD
 Change2
 Change 3
-=======
-Change2
->>>>>>> feature1
+
